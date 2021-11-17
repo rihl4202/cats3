@@ -1,0 +1,27 @@
+html, body {
+  margin: 20px;
+  padding: 20;
+  background-color: #ff7f50;
+  border-style: dashed;
+}
+
+
+canvas {
+  display: block;
+}
+
+.one {
+  display:flex;
+  justify-content: flex-start
+}
+
+
+.two {
+  display:flex;
+  justify-content: center
+}
+
+.three {
+  display:flex;
+  justify-content: flex-end
+}
